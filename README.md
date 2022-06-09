@@ -1,10 +1,10 @@
 ### Hi there 👋
 # 💫About Me :
-I'm currently working on improving my skills,
-I'm learning more about frontend development and its technologies. 
-I'm open to opportunities to help me grow and develop my skills. 
-How to reach me: Emial- smattumi@gmail.com. 
-Fun fact : I enjoy reading books
+💫I'm currently working on improving my skills,
+💫I'm learning more about frontend development and its technologies. 
+💫I'm open to opportunities to help me grow and develop my skills. 
+💫How to reach me: Emial- smattumi@gmail.com. 
+💫Fun fact : I enjoy reading books
 
 
 
